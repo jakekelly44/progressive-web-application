@@ -1,0 +1,19 @@
+{
+    "dependencies": {
+        "compression": "^1.7.4",
+        "express": "^4.17.1",
+        "mongoose": "^5.5.15",
+        "morgan": "^1.9.1",
+        "nodemon": "^2.0.4"
+    },
+    "scripts": {
+        "start": "node server.js"
+    },
+    "name": "budget-tracker",
+    "version": "1.0.0",
+    "main": "server.js",
+    "devDependencies": {},
+    "author": "Jake Kelly",
+    "license": "MIT",
+    "description": ""
+}
