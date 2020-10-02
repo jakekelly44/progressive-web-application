@@ -23,7 +23,7 @@ Start Server;
 
 ## Credits
 
-University of Arizona Coding Bootcamp Week 19 Module 19: Progressive Web Applications.
+University of Arizona Coding Bootcamp Week 19 Module 19: Progressive Web Applications.     
 Node Package Manager     
 Javascript     
 Express JS       
