@@ -56,4 +56,8 @@ SOFTWARE.
 
 ## Documentation
    
+Live Deployed Application: [View Application](https://progressive-web-appliction.herokuapp.com/ "Live Deploy")  
+
 ![Screenshot](doc/proof_still.png?raw=true "Proof of Application")      
+
+
